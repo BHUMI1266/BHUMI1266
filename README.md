@@ -2,7 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004D4D,50:008080,100:00BFA6&height=220&section=header&text=Bhumi%20Parmar&fontSize=55&fontColor=ffffff&fontAlignY=38" width="100%"/>
 
-</div>
+</br>
+
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=008080&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Learning+Java+%26+Programming;Exploring+Modern+Technologies;Always+Learning%2C+Always+Growing" />
 
 </div>
