@@ -54,31 +54,26 @@ Hi! I'm **Bhumi Parmar**, an MCA student and aspiring Full Stack Developer from 
 <tr>
 <td width="50%">
 
-### 📌 PlacementPortal
+## 🚀 Featured Project
 
-A Laravel-based placement management platform.
+<div align="center">
 
-- Job Posting
-- Resume Builder
-- Job Applications
-- Role-based Dashboard
+### 🎨 KidsCamp – Kids Activity Website
 
-**Tech:** Laravel, MySQL, Bootstrap
+A simple and creative static website designed for kids using HTML and CSS. The website focuses on an attractive interface and a child-friendly design.
 
-</td>
-<td width="50%">
+**Technologies Used:**
 
-### 🎉 EventHub
+<img src="https://skillicons.dev/icons?i=html,css" />
 
-A Django-based event management application.
+</div>
 
-- Event Creation
-- Event Management
-- User Participation
-- Event Tracking
+- 🌈 Attractive and colorful UI
+- 🎨 Designed using HTML5 and CSS3
+- 📱 Focus on responsive design
+- 🧸 Child-friendly website layout
 
-**Tech:** Python, Django, MySQL
-
+**Project Type:** Static Frontend Website
 </td>
 </tr>
 </table>
