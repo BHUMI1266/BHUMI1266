@@ -1,16 +1,122 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**BHUMI1266/BHUMI1266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004D4D,50:008080,100:00BFA6&height=200&section=header&text=Bhumi%20Parmar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=MCA%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" />
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3000&pause=1000&color=00BFA6&center=true&vCenter=true&width=600&lines=Hello%2C+Welcome+to+my+GitHub!;MCA+Student+at+Gujarat+Vidyapith;Full+Stack+Developer;Learning+%7C+Building+%7C+Growing" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+Hi! I'm **Bhumi Parmar**, an MCA student and aspiring Full Stack Developer from Gujarat, India.
+
+- 🎓 Pursuing MCA at Gujarat Vidyapith.
+- 💻 Interested in Full Stack Development.
+- 🌱 Exploring Java, React.js and modern technologies.
+- 🚀 Love building creative and useful projects.
+- 🎯 Goal: Become a skilled Software Developer.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,php" />
+</p>
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
+</p>
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django" />
+</p>
+
+### Database & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,figma" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📌 PlacementPortal
+
+A Laravel-based placement management platform.
+
+- Job Posting
+- Resume Builder
+- Job Applications
+- Role-based Dashboard
+
+**Tech:** Laravel, MySQL, Bootstrap
+
+</td>
+<td width="50%">
+
+### 🎉 EventHub
+
+A Django-based event management application.
+
+- Event Creation
+- Event Management
+- User Participation
+- Event Tracking
+
+**Tech:** Python, Django, MySQL
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BHUMI1266&show_icons=true&theme=vue-dark&hide_border=true&title_color=00BFA6&icon_color=00BFA6" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHUMI1266&layout=compact&theme=vue-dark&hide_border=true&title_color=00BFA6" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=BHUMI1266&theme=dark&hide_border=true&ring=00BFA6&fire=00BFA6&currStreakLabel=00BFA6" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/BHUMI1266">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Code. Learn. Build. Repeat. ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004D4D,50:008080,100:00BFA6&height=100&section=footer" width="100%" />
+
+</div>
