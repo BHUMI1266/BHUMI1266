@@ -58,7 +58,13 @@ I believe in learning by doing and growing through practical experience.
 </p>
 
 ---
+## 📊 GitHub Statistics
 
+<div align="center">
+
+![GitHub Stats](./profile/stats.svg)
+
+</div>
 ## 📊 GitHub Statistics
 
 <div align="center">
