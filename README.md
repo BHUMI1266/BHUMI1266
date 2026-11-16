@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004D4D,50:008080,100:00BFA6&height=220&section=header&text=Bhumi%20Parmar&fontSize=55&fontColor=ffffff&fontAlignY=38" width="100%"/>
