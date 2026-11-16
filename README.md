@@ -62,13 +62,6 @@ I believe in learning by doing and growing through practical experience.
 
 <div align="center">
 
-![GitHub Stats](./profile/stats.svg)
-
-</div>
-## 📊 GitHub Statistics
-
-<div align="center">
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BHUMI1266&show_icons=true&hide_border=true&bg_color=ffffff&title_color=006D77&icon_color=008080&text_color=444444" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHUMI1266&layout=compact&hide_border=true&bg_color=ffffff&title_color=006D77&text_color=444444" />
