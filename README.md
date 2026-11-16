@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004D4D,50:008080,100:00BFA6&height=200&section=header&text=Bhumi%20Parmar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=MCA%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3000&pause=1000&color=00BFA6&center=true&vCenter=true&width=600&lines=Hello%2C+Welcome+to+my+GitHub!;MCA+Student+at+Gujarat+Vidyapith;Full+Stack+Developer;Learning+%7C+Building+%7C+Growing" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3000&pause=1000&color=00BFA6&center=true&vCenter=true&width=600&lines=Hello%2C+Welcome+to+my+GitHub!;MCA+Student+at+Gujarat+Vidyapith;Programming & Technology Explorer;Learning+%7C+Building+%7C+Growing" />
 
 </div>
 
@@ -10,16 +10,14 @@
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Bhumi Parmar**, an MCA student and aspiring Full Stack Developer from Gujarat, India.
+Hi! I'm Bhumi Parmar, an MCA student at Gujarat Vidyapith, Ahmedabad.
 
-- 🎓 Pursuing MCA at Gujarat Vidyapith.
-- 💻 Interested in Full Stack Development.
-- 🌱 Exploring Java, React.js and modern technologies.
-- 🚀 Love building creative and useful projects.
-- 🎯 Goal: Become a skilled Software Developer.
-
----
-
+- 🎓 Pursuing Master of Computer Applications (MCA).
+- 💻 Exploring Programming and Technology.
+- ☕ Learning Java and Object-Oriented Programming.
+- 🌐 Exploring Web Development.
+- 🧠 Interested in AI, Databases and Emerging Technologies.
+- 🚀 Always curious to learn, experiment and grow.
 ## 🛠️ Tech Stack
 
 ### Programming Languages
@@ -47,8 +45,6 @@ Hi! I'm **Bhumi Parmar**, an MCA student and aspiring Full Stack Developer from 
 </p>
 
 ---
-
-## 🚀 Featured Projects
 
 <table>
 <tr>
